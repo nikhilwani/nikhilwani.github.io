@@ -70,7 +70,7 @@ Thank you for stopping by. I am a Research Engineer in the [Department of Comput
  I want machines to not just ***learn***, but also ***understand*** complex ideas the way we do, especially with ***natural langauges***. Last summer, I build a state-of-the-art [Contextually Complex Phrase detection]() system. 
 
 
-During the summer of 2017, I worked on [Probabilistic Models for Intelligent Text Input Processing]() as a research intern in the Human-Computer Interaction group at Industrail Design Center (IDC Dept), IIT Bombay, India, where I was advised by **[Dr. Anirudha Joshi](http://www.idc.iitb.ac.in/~anirudha/){:target="_blank"}**.
+During the summer of 2017, I worked on [Probabilistic Models for Intelligent Text Input Processing]() as a research intern in the Human-Computer Interaction (HCI) group at the Industrail Design Center (IDC Dept), IIT Bombay, India, where I was advised by **[Dr. Anirudha Joshi](http://www.idc.iitb.ac.in/~anirudha/){:target="_blank"}**.
 
 
 In spring 2017, I worked on [Multi-Scale 3D Convolutional Neural Network models]() during my internship at **Nvidia, Pune, India**, where I was lucky to be jointly adviced by [Dr. CP Mammen](https://in.linkedin.com/in/cp-mammen-7690735) and [Dr. Jayashree Kalpathy Crammer](https://connects.catalyst.harvard.edu/Profiles/display/Person/102986) (MGH, Harvard Medical School).
