@@ -70,7 +70,7 @@ Thank you for stopping by. I am a Research Engineer in the [Department of Comput
  I want machines to not just ***learn***, but also ***understand*** complex ideas the way we do, especially with ***natural langauges***. Last summer, I build a state-of-the-art [Contextually Complex Phrase detection]() system. 
 
 
-During the summer of 2017, I worked on [Probabilistic Models for Intelligent Text Input Processing]() as a research intern in the HCI group at Industrail Design Center (IDC Dept), IIT Bombay, India, where I was advised by **[Dr. Anirudha Joshi](http://www.idc.iitb.ac.in/~anirudha/){:target="_blank"}**.
+During the summer of 2017, I worked on [Probabilistic Models for Intelligent Text Input Processing]() as a research intern in the Human-Computer Interaction group at Industrail Design Center (IDC Dept), IIT Bombay, India, where I was advised by **[Dr. Anirudha Joshi](http://www.idc.iitb.ac.in/~anirudha/){:target="_blank"}**.
 
 
 In spring 2017, I worked on [Multi-Scale 3D Convolutional Neural Network models]() during my internship at **Nvidia, Pune, India**, where I was lucky to be jointly adviced by [Dr. CP Mammen](https://in.linkedin.com/in/cp-mammen-7690735) and [Dr. Jayashree Kalpathy Crammer](https://connects.catalyst.harvard.edu/Profiles/display/Person/102986) (MGH, Harvard Medical School).
@@ -79,7 +79,7 @@ In spring 2017, I worked on [Multi-Scale 3D Convolutional Neural Network models]
 I graduated in 2017 from VIT, Pune with distinction in Bachelors of Information Technology. Before that, I earned a Diploma in Computer Science Engineering with distinction from PCP, Pune in 2014.
 
 
-In my spare time, I contribute to [StackOverflow](https://stackoverflow.com/users/9370096/nikhil-wani){:target="_blank"}, and write [articles](). Outside of research, I like to play Cricket and participate in social events. I'm always looking for new, interesting people to interact with.
+In my spare time, I have begun contributing to [StackOverflow](https://stackoverflow.com/users/9370096/nikhil-wani){:target="_blank"} and writing [articles](). Outside of research, I like to play Cricket and participate in social events. I'm always looking for new, interesting people to interact with.
 
 You can find my research delineated [here](http://localhost:4000/research/), or peruse a detailed [CV](http://localhost:4000/research/).
 
