@@ -54,7 +54,7 @@ body
 
 <div class="container">
 
-  <img src="image2.jpeg" alt="Nikhil Wani" class="image">
+  <img src="image.jpeg" alt="Nikhil Wani" class="image">
 
   <div class="overlay">
 
