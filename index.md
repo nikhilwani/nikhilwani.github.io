@@ -65,12 +65,12 @@ body
 </div>
 
 
-Thank you for stopping by. I am a Research Engineer in the [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in/) at [IIT Bombay, India](https://www.iitb.ac.in/). I am advised by **[Dr. Pushpak Bhattachary](https://www.cse.iitb.ac.in/~pb/)**, and I am fortunate to be working closely with him at the [Center for Indian Language Technology](http://www.cfilt.iitb.ac.in/). My research broadly focuses on natural language understanding and machine learning.
+Thank you for stopping by. I am a second-year CS graduate student at the University of Southern California in sunny Los Angeles. Before this, I spent two wonderful years as a Research Engineer in the [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in/) at [IIT Bombay, India](https://www.iitb.ac.in/). I was advised by **[Dr. Pushpak Bhattachary](https://www.cse.iitb.ac.in/~pb/)**, and I have been fortunate to work closely with him at the [Center for Indian Language Technology](http://www.cfilt.iitb.ac.in/). My research broadly focuses on machine learning and natural language understanding. I am also a ACM SIGCHI Scholar and have experience in Human Computer Interaction/ User Experience research.
 
  I want machines to not just ***learn***, but also ***understand*** complex ideas the way we do, especially with ***natural langauges***. Last summer, I build a state-of-the-art [Contextually Complex Phrase detection]() system. 
 
 
-During the summer of 2017, I worked on [Probabilistic Models for Intelligent Text Input Processing]() as a research intern in the Human-Computer Interaction (HCI) group at the Industrail Design Center (IDC Dept), IIT Bombay, India, where I was advised by **[Dr. Anirudha Joshi](http://www.idc.iitb.ac.in/~anirudha/){:target="_blank"}**.
+During the summer of 2017, I worked on [Probabilistic Models for Intelligent Text Input Processing]() as a research intern in the Human-Computer Interaction (HCI) group at the IDC Design School (IDC Dept), IIT Bombay, India, where I was advised by **[Dr. Anirudha Joshi](http://www.idc.iitb.ac.in/~anirudha/){:target="_blank"}**.
 
 
 In spring 2017, I worked on [Multi-Scale 3D Convolutional Neural Network models]() during my internship at **Nvidia, Pune, India**, where I was lucky to be jointly adviced by [Dr. CP Mammen](https://in.linkedin.com/in/cp-mammen-7690735) and [Dr. Jayashree Kalpathy Crammer](https://connects.catalyst.harvard.edu/Profiles/display/Person/102986) (MGH, Harvard Medical School).
