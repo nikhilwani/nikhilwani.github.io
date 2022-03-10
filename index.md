@@ -70,7 +70,7 @@ Thank you for stopping by. I am a second-year CS graduate student in the honors 
 
 I want machines to not just ***learn***, but also ***understand*** complex ideas the way we do, especially with ***natural languages***.  I am also a ACM SIGCHI scholar and have some experience in Human Computer Interaction/ User Experience research.
 
-Before joining USC, I spent two wonderful years as a Machine Learning Research Engineer in the [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in/) at **[IIT Bombay, India](https://www.iitb.ac.in/)**. I was advised by [Dr. Pushpak Bhattachary](https://www.cse.iitb.ac.in/~pb/) at the [Center for Language Technology](http://www.cfilt.iitb.ac.in/). My research broadly focused on Machine Learning and Natural Language Understanding. 
+Before joining USC, I spent two wonderful years (2017-19) as a Machine Learning Research Engineer in the [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in/) at **[IIT Bombay, India](https://www.iitb.ac.in/)**. I was advised by [Dr. Pushpak Bhattachary](https://www.cse.iitb.ac.in/~pb/) at the [Center for Language Technology](http://www.cfilt.iitb.ac.in/). My research broadly focused on Machine Learning and Natural Language Understanding. 
 
 During the summer of 2017, I worked on [Probabilistic Models for Intelligent Text Input Processing]() as a research intern in the Human-Computer Interaction (HCI) group at the IDC School of Design (IDC Dept), IIT Bombay, India, where I was advised by **[Dr. Anirudha Joshi](http://www.idc.iitb.ac.in/~anirudha/){:target="_blank"}**.
 
