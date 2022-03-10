@@ -4,4 +4,4 @@ title:  Research
 permalink: /research/
 ---
 
-<p>Updation in progress.</p>
+<p>Heavy updation in progress! :) </p>
