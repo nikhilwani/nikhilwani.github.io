@@ -4,4 +4,4 @@ title:  Publications
 permalink: /publications/
 ---
 
-<p>Updation in progress.</p>
+Heavy updation in progress! :)
