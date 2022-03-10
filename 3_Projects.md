@@ -4,4 +4,4 @@ title:  Projects
 permalink: /projects/
 ---
 
-<p>Updation in progress.</p>
+Heavy updation in progress! :)
