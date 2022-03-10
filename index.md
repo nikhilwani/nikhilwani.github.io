@@ -65,10 +65,10 @@ body
 </div>
 
 
-Thank you for stopping by. I am a second-year CS graduate student in the honors program at the [University of Southern California](https://www.usc.edu/) in sunny Los Angeles. My currently working on master's thesis that proposes new context-aware multidimensional dynamic representation for lexical complexity. My work currently achieves state-of-the-art on three NLP shared tasks: 1. Complex phrases detection, 2. Complex word detection and 3. Grammatical sentence correctness detection.   
+Thank you for stopping by. I am a second-year CS graduate student in the honors program at the [University of Southern California](https://www.usc.edu/) in sunny Los Angeles. I am currently working on my master's thesis that proposes new context-aware multidimensional dynamic representation for lexical complexity. My work currently achieves state-of-the-art on three NLP shared tasks: 1. Complex phrase detection, 2. Complex word detection and 3. Grammatical sentence correctness detection.   
 
 
-Before joining USC, I spent two wonderful years as a Machine Learning Research Engineer in the [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in/) at [IIT Bombay, India](https://www.iitb.ac.in/). I was advised by **[Dr. Pushpak Bhattachary](https://www.cse.iitb.ac.in/~pb/)** at the [Center for Language Technology](http://www.cfilt.iitb.ac.in/). My research broadly focuses on Machine Learning and Natural Language Understanding. I am also a ACM SIGCHI Scholar and have experience in Human Computer Interaction/ User Experience research.
+Before joining USC, I spent two wonderful years as a Machine Learning Research Engineer in the [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in/) at **[IIT Bombay, India](https://www.iitb.ac.in/)**. I was advised by [Dr. Pushpak Bhattachary](https://www.cse.iitb.ac.in/~pb/) at the [Center for Language Technology](http://www.cfilt.iitb.ac.in/). My research broadly focused on Machine Learning and Natural Language Understanding. I am also a ACM SIGCHI Scholar and have experience in Human Computer Interaction/ User Experience research.
 
  I want machines to not just ***learn***, but also ***understand*** complex ideas the way we do, especially with ***natural languages***. Last summer, I built a state-of-the-art [Contextually Complex Phrase detection]() system. 
 
