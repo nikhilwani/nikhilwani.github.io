@@ -64,7 +64,7 @@ body
 
 </div>
 
- Update: I'm on the job market! I'm happy to explore areas other than my expertise :) Please feel free to reach me at nwani@usc.edu!{: style="color: red; opacity: 0.80;" }
+Update: I'm on the job market! I'm happy to explore areas other than my expertise :) Please feel free to reach me at nwani@usc.edu!
 
 Thank you for stopping by. I am a second-year CS graduate student in the honors program at the [University of Southern California](https://www.usc.edu/) in sunny Los Angeles. I am currently working on my master's thesis that proposes new context-aware multidimensional dynamic representation for lexical complexity. My work currently achieves state-of-the-art on three NLP-ML shared tasks: 1. Complex phrase detection, 2. Complex word detection and 3. Grammatical sentence correctness detection.   
 
@@ -74,13 +74,13 @@ Before joining USC, I spent two wonderful years (2017-19) as a Machine Learning 
 
 During the summer of 2017, I worked on [Probabilistic Models for Intelligent Text Input Processing]() as a research intern in the Human-Computer Interaction (HCI) group at the IDC School of Design (IDC Dept), IIT Bombay, India, where I was advised by **[Dr. Anirudha Joshi](http://www.idc.iitb.ac.in/~anirudha/){:target="_blank"}**.
 
-In spring 2017, I worked on [Multi-Scale 3D Convolutional Neural Network models]() during my internship at **Nvidia, Pune, India**, where I was lucky to be jointly advised by [Dr. CP Mammen](https://in.linkedin.com/in/cp-mammen-7690735) and [Dr. Jayashree Kalpathy Crammer](https://connects.catalyst.harvard.edu/Profiles/display/Person/102986) (MGH, Harvard Medical School).
+In spring 2017, I worked on Multi-Scale, Multi-Channel 3D Convolutional Neural Network models during my internship at **Nvidia, Pune, India**, where I was lucky to be jointly advised by [Dr. CP Mammen](https://in.linkedin.com/in/cp-mammen-7690735) and [Dr. Jayashree Kalpathy Crammer](https://connects.catalyst.harvard.edu/Profiles/display/Person/102986) (MGH, Harvard Medical School).
 
 
 I graduated in 2017 from VIT, Pune with distinction in Bachelors of Information Technology. Before that, I earned a Diploma in Computer Science Engineering with distinction from PCP, Pune in 2014.
 
 
-In my spare time, I have begun contributing to [StackOverflow](https://stackoverflow.com/users/9370096/nikhil-wani.){:target="_blank"} and writing [articles](). Outside of research, I like to play Cricket and participate in social events. I'm always looking for new, interesting people to interact with.
+In my spare time, I have begun contributing to StackOverflow and writing articles. Outside of research, I like to play Cricket and participate in social events. I'm always looking for new, interesting people to interact with.
 
 You can find my research delineated [here](http://localhost:4000/research/), or peruse a detailed [CV](http://localhost:4000/research/).
 
