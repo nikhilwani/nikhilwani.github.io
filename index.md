@@ -80,7 +80,4 @@ In spring 2017, I worked on Multi-Scale, Multi-Channel 3D Convolutional Neural N
 I graduated in 2017 from VIT, Pune with distinction in Bachelors of Information Technology. Before that, I earned a Diploma in Computer Science Engineering with distinction from PCP, Pune in 2014.
 
 
-In my spare time, I have begun contributing to StackOverflow and writing articles. Outside of research, I like to play Cricket and participate in social events. I'm always looking for new, interesting people to interact with.
-
-You can find my research delineated [here](http://localhost:4000/research/), or peruse a detailed [CV](http://localhost:4000/research/).
-
+In my spare time, I love to play Cricket and participate in social events. I'm always looking for new, interesting people to interact with.
