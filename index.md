@@ -66,7 +66,7 @@ body
 
 Update: I'm on the job market! I'm happy to explore areas other than my expertise :) Please feel free to reach me at nwani@usc.edu!
 
-Thank you for stopping by. I am a second-year CS graduate student in the honors program at the [University of Southern California](https://www.usc.edu/) in sunny Los Angeles. I am currently working on my master's thesis that proposes new context-aware multidimensional dynamic representation for lexical complexity. My work currently achieves state-of-the-art on three NLP-ML shared tasks: 1. Complex phrase detection, 2. Complex word detection and 3. Grammatical sentence correctness detection, encapsulated for the eventual gool of Lexical Simplification.    
+Thank you for stopping by. I am a second-year CS graduate student in the [honors program] (https://www.cs.usc.edu/academic-programs/masters/cs_ms_honors/) at the [University of Southern California](https://www.usc.edu/) in sunny Los Angeles. I am currently working on my master's thesis that proposes new context-aware multidimensional dynamic representation for lexical complexity. My work currently achieves state-of-the-art on three NLP-ML shared tasks: 1. Complex phrase detection, 2. Complex word detection and 3. Grammatical sentence correctness detection, encapsulated for the eventual goal of Lexical Simplification.    
 
 I want machines to not just ***learn***, but also ***understand*** complex ideas the way we do, especially with ***natural languages***.  I am also a ACM SIGCHI scholar and have some experience in Human Computer Interaction/ User Experience research.
 
