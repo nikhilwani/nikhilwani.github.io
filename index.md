@@ -64,7 +64,9 @@ body
 
 </div>
 
-# Update: I'm on the job market! I'm happy to explore areas other than my expertise :) Please feel free to reach me at nwani@usc.edu!
+<!---
+Update: I'm on the job market! I'm happy to explore areas other than my expertise :) Please feel free to reach me at nwani@usc.edu!
+-->
 
 Update: I'll be joining VMWare in Palo Alto, CA this Fall! I'll be starting as a Member of Technical Staff III (Machine Learning Engineer) as part of their Propel Program. Looking forward! :)
 
