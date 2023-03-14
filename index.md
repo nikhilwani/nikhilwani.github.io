@@ -86,3 +86,7 @@ I graduated in 2017 from VIT, Pune with distinction in Bachelors of Information 
 
 
 In my spare time, I love playing cricket and participate in social events. I'm always looking for new, interesting people to interact with.
+
+<small><em>This page may or may not have been produced by a generative AI!</em></small>
+
+
