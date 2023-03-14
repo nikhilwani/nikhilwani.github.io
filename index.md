@@ -85,7 +85,7 @@ In spring 2017, I worked on Multi-Scale, Multi-Channel 3D Convolutional Neural N
 I graduated in 2017 from VIT, Pune with distinction in Bachelors of Information Technology. Before that, I earned a Diploma in Computer Science Engineering with distinction from PCP, Pune in 2014.
 
 
-In my spare time, I love playing cricket and participate in social events. I'm always looking for new, interesting people to interact with.
+In my spare time, I'm either hitting sixes on the cricket pitch or hobnobbing with interesting folks at social events. I'm always looking for new, interesting people to interact with.
 
 <small><em>*This page may or may not have been produced by a generative AI! :)</em></small>
 
