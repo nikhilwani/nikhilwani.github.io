@@ -69,7 +69,7 @@ Update: I'm on the job market! I'm happy to explore areas other than my expertis
 I'll be starting as a Member of Technical Staff III (Machine Learning Engineer)
 -->
 
-Exciting news! Starting in Fall 22, I will be joining [VMware's](https://www.vmware.com/) Propel Program as a Machine Learning Engineer II at their Palo Alto, CA location in the Stanford Research Park. Exciting times ahead!
+Exciting update: Starting in Fall 22, I will be joining [VMware's](https://www.vmware.com/) Propel Program as a Machine Learning Engineer II at their Palo Alto, CA location in the Stanford Research Park. Exciting times ahead!
 
 Thank you for stopping by. I am a second-year CS graduate student in the [honors program](https://www.cs.usc.edu/academic-programs/masters/cs_ms_honors/) at the [University of Southern California](https://www.usc.edu/) in sunny Los Angeles. I am currently working on my master's thesis that proposes new context-aware multidimensional dynamic representation for lexical complexity. My work currently achieves state-of-the-art on three NLP-ML shared tasks: 1. Complex phrase detection, 2. Complex word detection and 3. Grammatical sentence correctness detection, encapsulated for the eventual goal of Lexical Simplification.    
 
