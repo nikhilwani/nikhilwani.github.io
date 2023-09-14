@@ -4,7 +4,7 @@ title:  Projects
 permalink: /projects/
 ---
 
-Heavy updation in progress! :)
+- Heavy updation in progress! :)
 
 
 <script
