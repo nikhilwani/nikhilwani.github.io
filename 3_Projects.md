@@ -8,7 +8,7 @@ permalink: /projects/
 
 
 
-<--
+<!---
 
 <script
 	type="module"
