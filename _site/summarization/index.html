@@ -3,9 +3,9 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Nikhil Wani🎙 | nikhilwani@cse.iitb.ac.in</title>
-<meta name="generator" content="Jekyll v4.3.2" />
-<meta property="og:title" content="Nikhil Wani🎙" />
+<title>Text Summarization using LLMs | Nikhil Wani🎙</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Text Summarization using LLMs" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="nikhilwani@cse.iitb.ac.in" />
 <meta property="og:description" content="nikhilwani@cse.iitb.ac.in" />
@@ -14,15 +14,18 @@
 <meta property="og:site_name" content="Nikhil Wani🎙" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Nikhil Wani🎙" />
+<meta property="twitter:title" content="Text Summarization using LLMs" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"nikhilwani@cse.iitb.ac.in","headline":"Nikhil Wani🎙","url":"http://localhost:4000/summarization/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"nikhilwani@cse.iitb.ac.in","headline":"Text Summarization using LLMs","url":"http://localhost:4000/summarization/"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Nikhil Wani🎙" /></head>
-<body><header class="site-header">
+<body><header class="site-header" role="banner">
 
-  <div class="wrapper"><a class="site-title" rel="author" href="/">Nikhil Wani🎙</a><nav class="site-nav">
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Nikhil Wani🎙 </a> 
+    <a id="echo" style="font-size:small; padding-top: 3px; text-decoration: none;" class="site-title" rel="author" target="_blank" href="https://translate.google.com/#mr/en/%E0%A4%B5%E0%A4%BE%E0%A4%A3%E0%A5%80"> &nbsp; (वाणी) </a><nav class="site-nav">
+
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+
         <label for="nav-trigger">
           <span class="menu-icon">
             <svg viewBox="0 0 18 15" width="18px" height="15px">
@@ -31,13 +34,38 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/publications/">Publications</a><a class="page-link" href="/research/">Research</a><a class="page-link" href="/projects/">Projects</a><a class="page-link" href="/social/">Social</a><a class="page-link" href="/blog/">Blog</a></div>
-      </nav></div>
-</header><main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <h1>Demo </h1>
+        <div class="trigger"><a class="page-link" href="/publications/">Publications</a><a class="page-link" href="/projects/">Projects</a><a class="page-link" href="/blog/">Blog</a></div>
 
-<p>Updation in progress.</p>
+      </nav></div>
+</header>
+
+
+
+<style type="text/css">
+ a#echo{
+  color: black;
+ }
+
+ a#echo:hover{
+-webkit-text-stroke: 0.1px black;
+ color: #1756a9; 
+ text-decoration: none;
+ } 
+
+
+</style>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <h1 id="text-summarization-using-llms-"><center>Text Summarization using LLMs </center></h1>
+
+<script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/3.44.1/gradio.js"></script>
+
+<gradio-app src="https://nikhilwani-nikhilwani-machine-translation-en-fr-6b3a170.hf.space"></gradio-app>
+
+<p><strong>Sample input:</strong> 
+Hunter Biden, the president’s son, was charged on Thursday by federal prosecutors with lying about his drug use when he purchased a handgun in 2018 and with illegally possessing the weapon, setting up the potential for a trial coinciding with his father’s re-election campaign.</p>
+
+<p>We use the <code class="language-plaintext highlighter-rouge">T5</code> tokenizer.</p>
 
 
       </div>
