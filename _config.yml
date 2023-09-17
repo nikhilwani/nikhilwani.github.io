@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nikhil Wani🎙
+title: Nikhil Wani
 email: nikhylwani@gmail.com
 #semail: nick.nikhilwani@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-  nikhylwani@gmail.com
+  Machine Learning Engineer and Researcher
   
 #   you can send me advice, feedback, wisdom, compliment anonmously here. If you'd like, you can anonmously advice me [here]().
 
@@ -36,12 +36,11 @@ disqus:
     shortname: nikhilwaniblogs
 
 # Build settings
-
-# markdown: kramdown
+markdown: kramdown
 theme: minima
-
-# plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 sass:
  sass_director: _sass
