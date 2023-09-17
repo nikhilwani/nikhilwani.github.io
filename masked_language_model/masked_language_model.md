@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /mlanguagemodel/
+exclude: true
 ---
 
 
