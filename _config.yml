@@ -39,8 +39,9 @@ disqus:
 
 # markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+
+# plugins:
+#  - jekyll-feed
 
 sass:
  sass_director: _sass
