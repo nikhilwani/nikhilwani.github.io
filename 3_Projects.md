@@ -4,9 +4,31 @@ title:  Projects
 permalink: /projects/
 ---
 
-- Heavy updation in progress! :)
+
+# NLP sub-tasks using Transformers and LLMs: 
+
+- # **Text Summarization**: [Demo](/summarization/)
+
+- # **Question Answering**: [Demo](/qa/)
+
+- # **Machine Translation**: [Demo](/translation/)
+	
+- # **Masked Language Model**: [Demo](/mlanguagemodel/)
+
+- # **Casual Language Model**: [Demo](/clanguagemodel/)
 
 
+
+
+# Master's Thesis (USC, August 2022):
+- # **Lexical complexity-driven representation learning**: [View](https://digitallibrary.usc.edu/Share/0exj4km4sfa4w4irr28102v4d27u51e4)
+NLP Task: Complex English phrase and word identification; Token classification (akin to NER or POS tasks). Showed State-of-the-art f1 score. 
+
+
+<!-- {% highlight text %}
+	Fine-tunned a transformer.helo
+{% endhighlight %}
+ -->
 
 <!---
 

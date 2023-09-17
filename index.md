@@ -54,13 +54,13 @@ body
 
 <div class="container">
 
-  <img src="image2.jpg" alt="Nikhil Wani" class="image">
+  <img src="image3_1.jpeg" alt="Nikhil Wani" class="image">
 
-  <div class="overlay">
+<!--   <div class="overlay">
 
-    <img src="image3.jpg" alt="Asli Nikhil Wani" class="image">
+    <img src="image4.jpg" alt="Asli Nikhil Wani" class="image">
 
-  </div> 
+  </div>  -->
 
 </div>
 
@@ -69,24 +69,43 @@ Update: I'm on the job market! I'm happy to explore areas other than my expertis
 I'll be starting as a Member of Technical Staff III (Machine Learning Engineer)
 -->
 
-Exciting update: Starting in Fall 22, I will be joining [VMware's](https://www.vmware.com/) Propel Program as a Machine Learning Engineer II at their Palo Alto, CA location in the Stanford Research Park. Exciting times ahead!
+I'm Nikhil, a Machine Learning Engineer and Researcher. I'm currently interested in Generative AI (LLMs) and its applications in Natural Language Processing (NLP)
 
-Thank you for stopping by. I am a second-year CS graduate student in the [honors program](https://www.cs.usc.edu/academic-programs/masters/cs_ms_honors/) at the [University of Southern California](https://www.usc.edu/) in sunny Los Angeles. I am currently working on my master's thesis that proposes new context-aware multidimensional dynamic representation for lexical complexity. My work currently achieves state-of-the-art on three NLP-ML shared tasks: 1. Complex phrase detection, 2. Complex word detection and 3. Grammatical sentence correctness detection, encapsulated for the eventual goal of Lexical Simplification.    
+Starting Aug 22, I joined **[VMware's](https://www.vmware.com/){:target="_blank"}** Propel Rotational Program as a **Machine Learning Engineer II** at their Palo Alto, CA headquarter in the Stanford Research Park to work on Enterpise NLP, LLM problems on private data. My team works on inventing cutting edge transformer based models that generate representation of the textual HTTP headers in absence of natural language syntax and semantics, a first of its kind!
 
-I want machines to not just ***learn***, but also ***understand*** complex ideas the way we do, especially with ***natural languages***.  I am also honored to have received the ACM SIGCHI scholarship, which fueled me to pursue and contribute to Human-Computer Interaction/ User Experience research.
+Previously, I was a CS graduate student in the [honors program](https://www.cs.usc.edu/academic-programs/masters/cs_ms_honors/){:target="_blank"} at the **[University of Southern California](https://www.usc.edu/){:target="_blank"}** in sunny Los Angeles. My masters was supported by the [USC Dean's scholarship](https://viterbigradadmission.usc.edu/programs/masters/tuition-funding/gradscholarships/){:target="_blank"}. I wanted machines to not just ***learn***, but also ***understand*** complex ideas the way we do, especially with ***natural languages***. My [master's thesis](https://digitallibrary.usc.edu/Share/0exj4km4sfa4w4irr28102v4d27u51e4){:target="_blank"} proposed new methods in lexical complexity-driven representation learning. My work achieves state-of-the-art on three NLP-ML shared tasks (NAACL 2018): 1. Complex phrase detection, 2. Complex word detection and 3. Grammatical sentence correctness detection, encapsulated for the eventual goal of Lexical Simplification of English text. I was also a TA for USC's popular course [CSCI 570: Analysis of Algorithms](https://viterbi-web.usc.edu/~adamchik/570/syllabus.pdf){:target="_blank"} under [Prof. Victor Adamchik](https://viterbi-web.usc.edu/~adamchik/){:target="_blank"}. 
+ 
 
-Before joining USC, I spent two wonderful years (2017-19) as a Machine Learning Research Engineer in the [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in/) at **[IIT Bombay, India](https://www.iitb.ac.in/)**. I was advised by [Dr. Pushpak Bhattachary](https://www.cse.iitb.ac.in/~pb/) at the [Center for Language Technology](http://www.cfilt.iitb.ac.in/). My research broadly focused on Machine Learning and Natural Language Understanding. 
+Before joining USC, I spent about two wonderful years (2017-19) as a Machine Learning Research Engineer in the [Department of Computer Science](https://www.cse.iitb.ac.in/){:target="_blank"} at **[IIT Bombay, India](https://www.iitb.ac.in/){:target="_blank"}**. I was advised by [Dr. Pushpak Bhattachary](https://www.cse.iitb.ac.in/~pb/){:target="_blank"} at the [Center for Language Technology](http://www.cfilt.iitb.ac.in/){:target="_blank"}. My research broadly focused on Machine Learning and Natural Language Understanding (Sequence and token classification tasks). 
 
-During the summer of 2017, I worked on [Probabilistic Models for Intelligent Text Input Processing]() as a Machine Learning research intern in the Human-Computer Interaction (HCI) group at the IDC School of Design (IDC Dept), IIT Bombay, India, where I was advised by **[Dr. Anirudha Joshi](http://www.idc.iitb.ac.in/~anirudha/){:target="_blank"}**.
+During the summer of 2017, I worked on [Probabilistic Models for Intelligent Text Input Processing](https://www.interact2017.org/downloads/INTERACT_2017_Adjunct_v4_final_24jan.pdf#page=55){:target="_blank"} as a Machine Learning research intern in the Human-Computer Interaction (HCI) group at the IDC School of Design (IDC Dept), IIT Bombay, India, where I was advised by **[Dr. Anirudha Joshi](http://www.idc.iitb.ac.in/~anirudha/){:target="_blank"}**.
 
-In spring 2017, I worked on Multi-Scale, Multi-Channel 3D Convolutional Neural Network models during my internship at **Nvidia, Pune, India**, where I was lucky to be jointly advised by [Dr. CP Mammen](https://in.linkedin.com/in/cp-mammen-7690735) and [Dr. Jayashree Kalpathy Crammer](https://connects.catalyst.harvard.edu/Profiles/display/Person/102986) (MGH, Harvard Medical School).
+In spring 2017, I worked on Multi-Scale, Multi-Channel 3D Convolutional Neural Network models during my 6 months Machine Learning Co-op/internship at **Nvidia, Pune, India**, where I was lucky to be jointly advised by [Dr. CP Mammen](https://in.linkedin.com/in/cp-mammen-7690735){:target="_blank"} and [Dr. Jayashree Kalpathy Crammer](https://connects.catalyst.harvard.edu/Profiles/display/Person/102986){:target="_blank"} **(MGH, Harvard Medical School)**.
 
 
-I graduated in 2017 from VIT, Pune with distinction in Bachelors of Information Technology. Before that, I earned a Diploma in Computer Science Engineering with distinction from PCP, Pune in 2014.
+I graduated in 2017 from University of Pune (VIT, Pune) with distinction in Bachelor's of Computer Science. During my undergrad, I received the honorable ACM SIGCHI scholarship, which fueled me to pursue and contribute to Human-Computer Interaction/ User Experience research. Before that, I earned an associates's degree in Computer Engineering with distinction from University of Mumbai (PCP, Pune) in 2014.
 
 
 In my spare time, I'm either hitting sixes on the cricket pitch or hobnobbing with interesting folks at social events. I'm always looking for new, interesting people to interact with.
 
-<small><em>*This page may or may not have been produced by a generative AI! :)</em></small>
+<!--- <small><em>*This page may or may not have been produced by a generative AI! :)</em></small> -->
+
+---
+---
+&nbsp;
+<center> <b> Try out my new chatbot, DialogGPT! </b> </center>  
+&nbsp;
+
+<script
+  type="module"
+  src="https://gradio.s3-us-west-2.amazonaws.com/3.44.3/gradio.js"
+></script>
+
+<gradio-app src="https://nikhilwani-dialog-gpt.hf.space"></gradio-app>
+
+
+For more of my NLP projects and demos, checkout my [Projects](/projects/) section. 
+
+
 
 
