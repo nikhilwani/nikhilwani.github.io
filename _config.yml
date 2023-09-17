@@ -36,7 +36,8 @@ disqus:
     shortname: nikhilwaniblogs
 
 # Build settings
-markdown: kramdown
+
+# markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
