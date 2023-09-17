@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 permalink: /clanguagemodel/
+published: false
 ---
 
 
