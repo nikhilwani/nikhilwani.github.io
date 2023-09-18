@@ -131,7 +131,7 @@ In 15th International Conference on Natural Language Processing (ICON 2017), Kol
 </div>
 
 * **Probabilistic Modeling of Swarachakra Mobile Keyboard for Improved Touch Accuracy** <br>
-***Nikhil Wani***, Adarsh Patodi, Sumit Singh Yadav, Anirudha Joshi <br>
+***Nikhil Wani***, Sumit Singh Yadav, Anirudha Joshi <br>
 In the Adjunct Proceedings of 16th IFIP International Conference on Human-Computer Interaction (INTERACT 2017), Mumbai, India <br>
 [[pdf]](https://www.interact2017.org/downloads/INTERACT_2017_Adjunct_v4_final_24jan.pdf#page=55){:target="_blank"} [[bib]]()
 
