@@ -5,4 +5,4 @@ permalink: /blog/
 menu: main
 ---
 
-<p>Updation in progress.</p>
+<p>Heavy updation in progress! :)</p>
