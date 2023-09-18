@@ -83,7 +83,7 @@ At a very early stage in my career, I am greatful and lucky to have collaborativ
 * **Lexical complexity-driven representation learning** ***[(Master's Thesis, Aug 2022)](https://sites.google.com/view/cwisharedtask2018)*** <br>
 ***Nikhil Wani*** and Sathyanaraya Raghavachary <br>
 University of Southern California, Los Angeles <br>
-[[pdf]](https://www.aclweb.org/anthology/W18-0522){:target="_blank"}
+[[pdf]](https://digitallibrary.usc.edu/Share/0exj4km4sfa4w4irr28102v4d27u51e4){:target="_blank"}
 
 
 
@@ -133,7 +133,7 @@ In 15th International Conference on Natural Language Processing (ICON 2017), Kol
 * **Probabilistic Modeling of Swarachakra Mobile Keyboard for Improved Touch Accuracy** <br>
 ***Nikhil Wani***, Adarsh Patodi, Sumit Singh Yadav, Anirudha Joshi <br>
 In the Adjunct Proceedings of 16th IFIP International Conference on Human-Computer Interaction (INTERACT 2017), Mumbai, India <br>
-[[pdf]](http://ifip-tc13.org/wp-content/uploads/2018/03/INTERACT_2017_Adjunct_v4_final_24jan.pdf#page=55){:target="_blank"} [[bib]]()
+[[pdf]](https://www.interact2017.org/downloads/INTERACT_2017_Adjunct_v4_final_24jan.pdf#page=55){:target="_blank"} [[bib]]()
 
 	*&dagger; = Equal contribution*
 
