@@ -83,7 +83,9 @@ During the summer of 2017, I worked on [Probabilistic Models for Intelligent Tex
 In spring 2017, I worked on Multi-Scale, Multi-Channel 3D Convolutional Neural Network models during my 6 months Machine Learning Co-op/internship at **Nvidia, Pune, India**, where I was lucky to be jointly advised by [Dr. CP Mammen](https://in.linkedin.com/in/cp-mammen-7690735){:target="_blank"} and [Dr. Jayashree Kalpathy Crammer](https://connects.catalyst.harvard.edu/Profiles/display/Person/102986){:target="_blank"} **(MGH, Harvard Medical School)**.
 
 
-I graduated in 2017 from University of Pune (VIT, Pune) with distinction in Bachelor's of Computer Science. During my undergrad, I received the honorable ACM SIGCHI scholarship, which fueled me to pursue and contribute to Human-Computer Interaction/ User Experience research. Before that, I earned an associates's degree in Computer Engineering with distinction from University of Mumbai (PCP, Pune) in 2014.
+I graduated in 2017 from University of Pune (VIT, Pune) with distinction in Bachelor's of Computer Science. During my undergrad, I received the honorable ACM SIGCHI scholarship, which fueled me to pursue and contribute to Human-Computer Interaction/ User Experience research. 
+
+<!-- Before that, I earned an associates's degree in Computer Engineering with distinction from University of Mumbai (PCP, Pune) in 2014. -->
 
 
 In my spare time, I'm either hitting sixes on the cricket pitch or hobnobbing with interesting folks at social events. I'm always looking for new, interesting people to interact with.
