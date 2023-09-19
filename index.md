@@ -69,7 +69,7 @@ Update: I'm on the job market! I'm happy to explore areas other than my expertis
 I'll be starting as a Member of Technical Staff III (Machine Learning Engineer)
 -->
 
-I'm Nikhil, a Machine Learning Engineer and Researcher. I'm currently interested in Generative AI (LLMs) and its applications in Natural Language Processing (NLP)
+I'm Nikhil, a Machine Learning Engineer and Researcher. I'm currently interested in Generative AI (LLMs) and its applications in Natural Language Processing (NLP).
 
 Starting Aug 22, I joined **[VMware's](https://www.vmware.com/){:target="_blank"}** Propel Rotational Program as a **Machine Learning Engineer II** at their Palo Alto, CA headquarter in the Stanford Research Park to work on Enterpise NLP, LLM problems on private data. My team works on inventing cutting edge transformer based models that generate representation of the textual HTTP headers in absence of natural language syntax and semantics, a first of its kind!
 
