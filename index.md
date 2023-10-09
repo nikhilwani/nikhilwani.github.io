@@ -88,7 +88,7 @@ I graduated in 2017 from University of Pune (VIT, Pune) with distinction in Bach
 <!-- Before that, I earned an associates's degree in Computer Engineering with distinction from University of Mumbai (PCP, Pune) in 2014. -->
 
 
-In my spare time, I'm either hitting sixes on the cricket pitch or hobnobbing with interesting folks at social events. <!--I'm always looking for new, interesting people to interact with.--> If there is anything I can help you with, please feel free to reach out to me at nikhylwani@gmail.com, or message me on [LinkedIn](https://www.linkedin.com/in/nikhilwnai){:target="_blank"}! 
+In my spare time, I'm either hitting sixes on the cricket pitch or hobnobbing with interesting folks at social events. <!--I'm always looking for new, interesting people to interact with.--> If there is anything I can help you with, please feel free to reach out to me at nikhylwani@gmail.com, or message me on [LinkedIn](https://www.linkedin.com/in/nikhilwani){:target="_blank"}! 
 
 <!--- <small><em>*This page may or may not have been produced by a generative AI! :)</em></small> -->
 
