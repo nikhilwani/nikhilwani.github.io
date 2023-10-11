@@ -34,7 +34,7 @@ Fine-tuned a 	T5 seq2seq model.
 <b> Language modeling:</b>
   <li style="margin-bottom: 0;"><h1 style="margin: 0; padding: 0;"><strong>Masked Language Model:<a href="/mlanguagemodel/"> Demo</a></strong></h1></li>
   <span style="color: red;"> Token generation </span> task.
-  <li style="margin-top: 0;"><h1 style="margin: 0; padding: 0;"><strong>Casual Language Model:<a href="/clanguagemodel/"> Demo</a></strong></h1></li>
+  <li style="margin-top: 0;"><h1 style="margin: 0; padding: 0;"><strong>Causal Language Model:<a href="/clanguagemodel/"> Demo</a></strong></h1></li>
   Next <span style="color: red;">sequence generation </span> task (Python code generation).
 </ul>
 
