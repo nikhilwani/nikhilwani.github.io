@@ -61,7 +61,7 @@ Fine-tuned a 	T5 seq2seq model.
 	
 - # **Masked Language Model**: [Demo](/mlanguagemodel/)
 
-- # **Casual Language Model**: [Demo](/clanguagemodel/)
+- # **Causal Language Model**: [Demo](/clanguagemodel/)
  -->
 
 
