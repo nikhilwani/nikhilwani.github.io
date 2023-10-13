@@ -46,7 +46,7 @@ Fine-tuned a 	T5 seq2seq model.
 
 <ul style="margin-bottom: 0;">
 <b> Conversational AI:</b>
-  <li style="margin-bottom: 0;"><h1 style="margin: 0; padding: 0;"><strong>Dialog systems: <a href="/mlanguagemodel/"> Demo</a></strong></h1></li>
+  <li style="margin-bottom: 0;"><h1 style="margin: 0; padding: 0;"><strong>Dialog systems: <a href="https://nikhilwani.github.io/#dialoggpt"> Demo</a></strong></h1></li>
   <span style="color: red;"></span> DialogGPT. 
 </ul>
 

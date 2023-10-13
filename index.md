@@ -95,7 +95,7 @@ In my spare time, I'm either hitting sixes on the cricket pitch or hobnobbing wi
 ---
 ---
 &nbsp;
-<center> <b> Try out my new chatbot, DialogGPT! </b> </center>  
+<center id="dialoggpt"> <b> Try out my new chatbot, DialogGPT! </b> </center>  
 &nbsp;
 
 *Note: Inference is currently running on **a free-tire shared CPU instance**, so processing time will vary based on availablity. GPU upgrades will be available soon! :)*
