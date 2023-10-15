@@ -108,7 +108,7 @@ In my spare time, I'm either hitting sixes on the cricket pitch or hobnobbing wi
 <gradio-app src="https://nikhilwani-dialog-gpt.hf.space"></gradio-app>
 
 
-For more of my NLP projects and demos, checkout my [Projects](/projects/) section. 
+For more of my NLP quick demos, checkout my [Projects](/projects/) section. 
 
 
 
