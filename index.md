@@ -96,6 +96,7 @@ For an outline of my recent NLP implementation demos, explore the [Projects](/pr
 
 ---
 ---
+<!---
 &nbsp;
 <center id="dialoggpt"> <b> Try out my new chatbot, DialogGPT! </b> </center>  
 &nbsp;
@@ -111,7 +112,7 @@ For an outline of my recent NLP implementation demos, explore the [Projects](/pr
 
 
 For more of my NLP quick demos, checkout my [Projects](/projects/) section. 
-
+-->
 
 
 
