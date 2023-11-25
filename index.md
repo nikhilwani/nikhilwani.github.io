@@ -80,7 +80,7 @@ Before joining USC, I spent about two wonderful years (2017-19) as a Machine Lea
 
 During the summer of 2017, I worked on [Probabilistic Models for Intelligent Text Input Processing](https://www.interact2017.org/downloads/INTERACT_2017_Adjunct_v4_final_24jan.pdf#page=55){:target="_blank"} as a Machine Learning research intern in the Human-Computer Interaction (HCI) group at the IDC School of Design (IDC Dept), IIT Bombay, India, where I was advised by **[Dr. Anirudha Joshi](http://www.idc.iitb.ac.in/~anirudha/){:target="_blank"}**.
 
-In spring 2017, I worked on Multi-Scale, Multi-Channel 3D Convolutional Neural Network models during my 6 months Machine Learning Co-op/internship at **Nvidia, Pune, India**, where I was lucky to be jointly advised by [Dr. CP Mammen](https://in.linkedin.com/in/cp-mammen-7690735){:target="_blank"} and [Dr. Jayashree Kalpathy Crammer](https://connects.catalyst.harvard.edu/Profiles/display/Person/102986){:target="_blank"} **(MGH, Harvard Medical School)**.
+In spring 2017, I worked on Multi-Scale, Multi-Channel 3D Convolutional Neural Network models during my 6 months Machine Learning Co-op/internship at **Nvidia**, where I was lucky to be jointly advised by [Dr. CP Mammen](https://in.linkedin.com/in/cp-mammen-7690735){:target="_blank"} and [Dr. Jayashree Kalpathy Crammer](https://connects.catalyst.harvard.edu/Profiles/display/Person/102986){:target="_blank"} **(MGH, Harvard Medical School)**.
 
 
 I graduated in 2017 from University of Pune (VIT, Pune) with distinction in Bachelor's of Computer Science. During my undergrad, I received the honorable ACM SIGCHI scholarship, which fueled me to pursue and contribute to Human-Computer Interaction/ User Experience research. 
