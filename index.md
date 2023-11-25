@@ -92,6 +92,7 @@ In my spare time, I'm either hitting sixes on the cricket pitch or hobnobbing wi
 
 <!--- <small><em>*This page may or may not have been produced by a generative AI! :)</em></small> -->
 
+For an outline of my recent NLP implementation demos, explore the [Projects](/projects/) section.
 ---
 ---
 &nbsp;
