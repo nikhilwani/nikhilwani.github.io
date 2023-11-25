@@ -90,9 +90,10 @@ I graduated in 2017 from University of Pune (VIT, Pune) with distinction in Bach
 
 In my spare time, I'm either hitting sixes on the cricket pitch or hobnobbing with interesting folks at social events. <!--I'm always looking for new, interesting people to interact with.--> If there is anything I can help you with, please feel free to reach out to me at [nikhylwani@gmail.com](mailto:nikhylwani@gmail.com), or message me on [LinkedIn](https://www.linkedin.com/in/nikhilwani){:target="_blank"}! 
 
+For an outline of my recent NLP implementation demos, explore the [Projects](/projects/) section.
+
 <!--- <small><em>*This page may or may not have been produced by a generative AI! :)</em></small> -->
 
-For an outline of my recent NLP implementation demos, explore the [Projects](/projects/) section.
 ---
 ---
 &nbsp;
