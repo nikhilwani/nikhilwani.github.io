@@ -80,7 +80,7 @@ At a very early stage in my career, I am greatful and lucky to have collaborativ
 #### **Natural Language Processing, Machine Learning**:
 
 
-* **Lexical complexity-driven representation learning** ***[(Master's Thesis, Aug 2022)](https://sites.google.com/view/cwisharedtask2018)*** <br>
+* **Lexical complexity-driven representation learning** ***[(Master's Thesis, Aug 2022)](https://digitallibrary.usc.edu/Share/0exj4km4sfa4w4irr28102v4d27u51e4)*** <br>
 ***Nikhil Wani*** and Sathyanaraya Raghavachary <br>
 University of Southern California, Los Angeles <br>
 [[pdf]](https://digitallibrary.usc.edu/Share/0exj4km4sfa4w4irr28102v4d27u51e4){:target="_blank"}
@@ -88,7 +88,7 @@ University of Southern California, Los Angeles <br>
 
 
 
-* **The Whole is Greater than the Sum of its Parts: Towards the Effectiveness of Voting Ensemble Classifiers for Complex Word Identification** ***[(NAACL 2018 Shared Task)](https://sites.google.com/view/cwisharedtask2018)*** <br>
+* **The Whole is Greater than the Sum of its Parts: Towards the Effectiveness of Voting Ensemble Classifiers for Complex Word Identification** ***[(NAACL 2018 Shared Task)](https://sites.google.com/view/cwisharedtask2018){:target="_blank"}*** <br>
 ***Nikhil Wani***, Sandeep Mathias, Jayashree Aanad Gajam, Pushpak Bhattacharyya <br>
 In the Proceedings of the 13th Workshop on Innovative Use of NLP for Building Educational Applications(NAACL 2018), New Orleans, USA <br>
 [[pdf]](https://www.aclweb.org/anthology/W18-0522){:target="_blank"} <button id="nlpbeabib" class="justText"> [bib] </button>
