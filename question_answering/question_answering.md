@@ -63,8 +63,8 @@ permalink: /qa/
 ---
 ---
 
-###[1] Lewis, Patrick, et al. "[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)." arXiv preprint arXiv:2005.11401 (2020). References
-[1] Lewis, Patrick, et al. "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks." arXiv preprint arXiv:2005.11401 (2020).
+### References
+[1] Lewis, Patrick, et al. "[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401){:target="_blank"}." arXiv preprint arXiv:2005.11401 (2020).
 
 <p></p>
 
