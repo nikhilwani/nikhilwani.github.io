@@ -20,5 +20,14 @@ exclude: false
 Hunter Biden, the president’s son, was charged on Thursday by federal prosecutors with lying about his drug use when he purchased a handgun in 2018 and with illegally possessing the weapon, setting up the potential for a trial coinciding with his father’s re-election campaign.
 
 
-We use the ```T5``` tokenizer. 
+We use the ```T5``` tokenizer and fine-tune the model to generate summary. 
 
+---
+---
+<p></p>
+<b>References:</b>  
+[1] Raffel, Colin, et al. "[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683){:target="_blank"}." arXiv preprint arXiv:1910.10683 (2019).
+
+<p></p>
+
+*Last updated: Oct 2023*
