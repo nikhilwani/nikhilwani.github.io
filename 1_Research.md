@@ -228,4 +228,4 @@ International Journal of Computer Applications 168, no. 9 (2017) <br>
 #### **Research Implementation**:
 
 * **NLP Tasks:**
-  * Refer to my recent Pytorch + HuggingFace implementation [demos](http://127.0.0.1:4000/projects/) page [***In-progress***].
+  * Refer to my recent Pytorch + HuggingFace implementation [demos](http://127.0.0.1:4000/projects/) page [***In-progress***]. 
