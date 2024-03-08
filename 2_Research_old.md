@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Research
-permalink: /research/
+title:  Research_old
+permalink: /research_old/
 ---
 
 <p>Heavy updation in progress! :) </p>

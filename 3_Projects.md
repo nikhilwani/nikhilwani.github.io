@@ -2,7 +2,7 @@
 layout: page
 title:  Projects
 permalink: /projects/
-menu: main
+#menu: main
 ---
 
 

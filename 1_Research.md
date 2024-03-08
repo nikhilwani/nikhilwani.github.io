@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Publications
-permalink: /publications/
+title:  Research
+permalink: /research/
 menu: main
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -68,6 +68,40 @@ body
 
 </style>
 
+
+<style type="text/css">
+
+.image
+{
+
+ float:left;
+ margin-top: 6px;
+ margin-right: 7px; 
+ margin-bottom: -7px;  
+ height: 100px; 
+ border: 5px; 
+ border-radius: 5px;
+}
+
+.image1
+{
+
+ float:left;
+ margin-top: 18px;
+ margin-right: 19px;  
+ height: 115px;
+ width: 125px; 
+ border: 5px; 
+ border-radius: 5px;
+}
+
+body
+{
+	text-align: justify;
+}
+
+</style>
+
 <!-- Scolarly Publication
 
 I'm primarily interested in NLP and Deep Learning. Secondary, HCI. I'm also keen on making NLP and HCI interact.
@@ -77,20 +111,22 @@ At a very early stage in my career, I am greatful and lucky to have collaborativ
 [[ResearchGate]](https://www.researchgate.net/profile/Nikhil_Wani){:target="_blank"}, [[Google Scholar]](https://www.researchgate.net/profile/Nikhil_Wani){:target="_blank"} -->
 
 
+#### **Publications**:
 #### **Natural Language Processing, Machine Learning**:
-
-
-* **Lexical complexity-driven representation learning** ***[(Master's Thesis, Aug 2022)](https://digitallibrary.usc.edu/Share/0exj4km4sfa4w4irr28102v4d27u51e4)*** <br>
+<a href="https://impa.usc.edu/C.aspx?VP3=pdfviewer&rid=2A3BF1QKX2QIR" target="_blank"> <img src="/temp20.svg" alt="nlp-bea18-thumbnail.png" class="image1" style="margin-top:1px;"></a>
+**Lexical complexity-driven representation learning** <br>
+***[(Master's Thesis, Aug 2022)](https://impa.usc.edu/C.aspx?VP3=pdfviewer&rid=2A3BF1QKX2QIR)*** <br>
 ***Nikhil Wani*** and Sathyanaraya Raghavachary <br>
 University of Southern California, Los Angeles <br>
-[[pdf]](https://digitallibrary.usc.edu/Share/0exj4km4sfa4w4irr28102v4d27u51e4){:target="_blank"}
+[[pdf]](https://impa.usc.edu/C.aspx?VP3=pdfviewer&rid=2A3BF1QKX2QIR){:target="_blank"}
 
 
 
-
-* **The Whole is Greater than the Sum of its Parts: Towards the Effectiveness of Voting Ensemble Classifiers for Complex Word Identification** ***[(NAACL 2018 Shared Task)](https://sites.google.com/view/cwisharedtask2018){:target="_blank"}*** <br>
+<a href="https://aclanthology.org/W18-0522/" target="_blank"> <img src="/temp6.png" alt="temp.png" class="image1"></a>
+**The Whole is Greater than the Sum of its Parts: Towards the Effectiveness of Voting Ensemble Classifiers for Complex Word Identification** <br>
+***[(NAACL 2018 Shared Task)](https://sites.google.com/view/cwisharedtask2018){:target="_blank"}*** <br>
 ***Nikhil Wani***, Sandeep Mathias, Jayashree Aanad Gajam, Pushpak Bhattacharyya <br>
-In the Proceedings of the 13th Workshop on Innovative Use of NLP for Building Educational Applications(NAACL 2018), New Orleans, USA <br>
+**NLP-BEA@ NAACL 2018**, New Orleans, USA <br>
 [[pdf]](https://www.aclweb.org/anthology/W18-0522){:target="_blank"} <button id="nlpbeabib" class="justText"> [bib] </button>
 
 <div class="bibfont">
@@ -108,9 +144,11 @@ In the Proceedings of the 13th Workshop on Innovative Use of NLP for Building Ed
 </p>
 </div>
 
-* **Is your Statement Purposeless? Predicting Computer Science Graduation Admission Acceptance based on Statement Of Purpose** <br>
+<a href="https://cdn.iiit.ac.in/cdn/ltrc.iiit.ac.in/icon2017/proceedings/icon2017/pdf/W17-7518.pdf" target="_blank"> <img src="/temp9_black_white.png" alt="nlp-bea18-thumbnail.png" class="image1"></a>
+
+**Is your Statement Purposeless? Predicting Computer Science Graduate Admission Acceptance based on Statement Of Purpose** <br>
 *&dagger;Diptesh Kanojia, &dagger;****Nikhil Wani***, Pushpak Bhattacharyya <br>
-In 15th International Conference on Natural Language Processing (ICON 2017), Kolkata, India <br>
+In 15th International Conference on Natural Language Processing (**ICON 2017**), Kolkata, India <br>
 [[pdf]](https://cdn.iiit.ac.in/cdn/ltrc.iiit.ac.in/icon2017/proceedings/icon2017/pdf/W17-7518.pdf){:target="_blank"} <button id="iconbib" class="justText"> [bib] </button>
 
 <div class="bibfont">
@@ -130,12 +168,15 @@ In 15th International Conference on Natural Language Processing (ICON 2017), Kol
 </p>
 </div>
 
-* **Probabilistic Modeling of Swarachakra Mobile Keyboard for Improved Touch Accuracy** <br>
-***Nikhil Wani***, Sumit Singh Yadav, Anirudha Joshi <br>
-In the Adjunct Proceedings of 16th IFIP International Conference on Human-Computer Interaction (INTERACT 2017), Mumbai, India <br>
-[[pdf]](https://www.interact2017.org/downloads/INTERACT_2017_Adjunct_v4_final_24jan.pdf#page=55){:target="_blank"} [[bib]]()
+#### **Human Computer Interaction, Machine Learning**:
 
-	*&dagger; = Equal contribution*
+<a href="http://www.twitter.com/shawtyanswers" target="_blank"> <img src="/interact17-thumbnail.png" alt="interact-2017" class="image1"></a>
+
+**Probabilistic Modeling of Swarachakra Mobile Keyboard for Improved Touch Accuracy** <br>
+***Nikhil Wani***, Sumit Singh Yadav, Anirudha Joshi <br>
+In the Adjunct Proceedings of 16th IFIP International Conference on Human-Computer Interaction (**INTERACT 2017**), Mumbai, India <br>[[pdf]](https://www.interact2017.org/downloads/INTERACT_2017_Adjunct_v4_final_24jan.pdf#page=55){:target="_blank"} [[bib]]()
+
+*&dagger; = Equal contribution*
 
 
 <!-- #### **Human Computer Interaction (HCI):**
@@ -151,3 +192,38 @@ International Journal of Computer Applications 168, no. 9 (2017) <br>
 [[pdf]]() [[bib]]() -->
 
 
+---
+--- 
+
+<p></p>
+
+#### **Program Committee / Reviewer / Academic Services**:
+
+
+* **Reviewer:**
+  * **ACL Anthology:** [NAACL 2022](https://2022.naacl.org/){:target="_blank"} , [ICON 2018](https://ltrc.iiit.ac.in/icon2018/){:target="_blank"} 
+  * **SIGCHI:** [CHI 2024](https://chi2024.acm.org/){:target="_blank"} Late Breaking Work (x2), ACM [CUI (Conversational UI) 2024](https://cui.acm.org/2024/){:target="_blank"}, ACM [MobileHCI 2024](https://mobilehci.acm.org/2024/){:target="_blank"}, ACM [IMX 2024](https://imx.acm.org/2024/){:target="_blank"}
+   <br>
+* **Student Volunteer:** [INTERACT 2017](https://www.interact2017.org/){:target="_blank"}, [IndiaHCI 2016](https://www.indiahci.org/conferences/){:target="_blank"} <br>
+
+* **Teaching:**
+  * **University of Southern California**
+    * **Graduate courses:**
+    * **CSCI 570: Analysis of Algorithms**
+      * Course Producer (Fall 2020, Summer 2021): Prof. Shahriar Shamsian and Prof. Victor Adamchik.
+    * **CSCI 567: Machine Learning**  
+      * Course Producer (Summer 2021): Prof. Victor Adamchik
+    * **CSCI 585: Database systems** 
+      * Grader (Spring 2021) : Prof. Saty Raghavachar
+    * **CSCI 571: Web Technologies**
+      * Head TA (Fall 21, Spring 22, and Summer 22): Prof. Marco Papa
+
+---
+--- 
+
+<p></p>
+
+#### **Research Implementation**:
+
+* **NLP Tasks:**
+  * Refer to my recent Pytorch + HuggingFace implementation [demos](http://127.0.0.1:4000/projects/) page [***In-progress***].
