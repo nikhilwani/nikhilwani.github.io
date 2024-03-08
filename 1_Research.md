@@ -194,9 +194,6 @@ International Journal of Computer Applications 168, no. 9 (2017) <br>
 ---
 --- 
 
----
---- 
-
 <p></p>
 
 #### **Program Committee / Reviewer / Academic Services**:
