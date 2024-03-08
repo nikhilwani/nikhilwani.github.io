@@ -194,7 +194,6 @@ International Journal of Computer Applications 168, no. 9 (2017) <br>
 ---
 --- 
 
-<<<<<<< HEAD:1_Research.md
 ---
 --- 
 
@@ -230,12 +229,3 @@ International Journal of Computer Applications 168, no. 9 (2017) <br>
 
 * **NLP Tasks:**
   * Refer to my recent Pytorch + HuggingFace implementation [demos](http://127.0.0.1:4000/projects/) page [***In-progress***].
-=======
-<p></p>
-
-#### **Program Committee / Reviewer**:
-
-
-* **Reviewer:** [CHI 2024](https://chi2024.acm.org/){:target="_blank"} Late Breaking Work (x2), [NAACL 2022](https://2022.naacl.org/){:target="_blank"} , [ICON 2018](https://ltrc.iiit.ac.in/icon2018/){:target="_blank"} <br>
-* **Student Volunteer:** [INTERACT 2017](https://www.interact2017.org/){:target="_blank"}, [IndiaHCI 2016](https://www.indiahci.org/conferences/){:target="_blank"} <br>
->>>>>>> 0f2dda05ea0a343d06914107770bc128f588a3e9:1_Publications_update.md
