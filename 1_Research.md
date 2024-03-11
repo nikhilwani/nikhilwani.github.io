@@ -111,6 +111,8 @@ At a very early stage in my career, I am greatful and lucky to have collaborativ
 [[ResearchGate]](https://www.researchgate.net/profile/Nikhil_Wani){:target="_blank"}, [[Google Scholar]](https://www.researchgate.net/profile/Nikhil_Wani){:target="_blank"} -->
 
 
+I’m broadly interested in Generative AI and its applications in Natural Language Processing (NLP). My current research areas include: **LLM explainability, evaluation, and security**.
+
 #### **Publications**:
 #### **Natural Language Processing, Machine Learning**:
 <a href="https://impa.usc.edu/C.aspx?VP3=pdfviewer&rid=2A3BF1QKX2QIR" target="_blank"> <img src="/temp20.svg" alt="nlp-bea18-thumbnail.png" class="image1" style="margin-top:1px;"></a>
